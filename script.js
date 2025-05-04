@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		7: "an average straight B student.",
 		8: "somewhat smart.",
 		9: "getting constant 3.5+ GPAs on all report cards.",
-		10: "smarter than Whoopdeedoo56 doing cypto."
+		10: "smarter than Whoopdeedoo56 doing cryptocurrency."
 	};
 
 	document.getElementById("result").innerHTML = res[totalScore];
